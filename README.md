@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/banner.svg" alt="PimpBox RGB — Pimp My Box: RGB Edition" width="900"></p>
 
-[Website](https://gallifree.github.io/pimpbox-rgb/) · [GitHub](https://github.com/gallifree/pimpbox-rgb)
+[Website](https://gallifree.app/pimpbox-rgb/) · [GitHub](https://github.com/gallifree/pimpbox-rgb)
 
 A desktop and terminal control panel for [OpenRGB](https://openrgb.org), written
 in Rust with [egui](https://github.com/emilk/egui) and
