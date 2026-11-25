@@ -71,7 +71,6 @@ macOS, and Windows packages and attaches them to a draft GitHub release.
 ```sh
 cargo check
 cargo test
-npm --prefix www run dev                       # Vike website
 cargo run --example mock_server -- 26742        # fake server with virtual devices
 cargo run -- 127.0.0.1:26742
 cargo run --example probe -- 127.0.0.1 6742     # read-only device listing
